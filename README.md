@@ -23,15 +23,6 @@ This is a **responsive frontend clone of the Amazon homepage**, built using **HT
 
 ---
 
-## 🚀 Getting Started
-
-To run this project locally:
-
-```bash
-git clone https://github.com/sde-ignitor/amazon-clone.git
-cd amazon-clone
-
----
 ## 🎯 Purpose
 
 This project was created as a part of web development practice to:
